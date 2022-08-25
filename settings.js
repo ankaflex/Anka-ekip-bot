@@ -50,7 +50,7 @@ const settings = {
     "EVENTS": "MTAwMTg0Njg4NDA2NDgzNzY3Mg.GiIYUN.qgqm4oxvTkPqTLpG1y1kqrzNa9YhHsmJTLoBpk", // game botu
 
     "prefix": [".","!","m!"],
-    "botSesID": "1010680563952259122",
+    "botSesID": "1012429155129888898",
     "sunucuId": "853430186946854954",
     "sahip": ["779312861544841228"],
     "footer": "Developed By Anka",
