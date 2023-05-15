@@ -1,5 +1,5 @@
 const settings = {
-	"MongoDB": "mongodb+srv://ankaberat123:ankaberat123@cluster0.ubraz.mongodb.net/ankayagirsin?retryWrites=true&w=majority",
+	"MongoDB": "",
     "commandChannel": ["1011611767899697212"],
     "taglıAlım": false,
     "onsekizatilacakoda": "",
@@ -42,12 +42,12 @@ const settings = {
 
 
 
-    "MODERASYON": "OTk4MzU2NTAxMDY2NDE2MTk4.G0fSrH.NcIAwLNFX7fIrPeiHLUG48h1VtGLEj5PZoe7Z0", // mod botu
-    "STATS": "MTAwMTg0NDc3NjgxNzEzMTU0MA.GVGHNY.lS_pOgLChC9CUCS_K-gOwhnWubKjnBgRYv6hAU", // stat
-    "EXECUTIVE": "MTAwMTg0NTU3MzkxMTA3MjgzOA.GZ_wAh.LnA4cSnqkBGkTGoHboD3UA1islmMiRUGC2h6Ps", // yönetim
-    "LOG": "MTAwMTg0NjEyNDExMTQ2MjUxMQ.GbmMuJ.CDPLQuSrVzZhQ1uLIL-CwrBgSbkkGAuKoXQIFQ", // log botu
-    "ASYNC": "MTAwMTg0NjQ0ODM1NjMzNTcwOA.GG19zE.zCx8Ux3VJKwaypjrpOdaWZ1Z1aFsTs9UfRo6Dg", // async botu
-    "EVENTS": "MTAwMTg0Njg4NDA2NDgzNzY3Mg.GiIYUN.qgqm4oxvTkPqTLpG1y1kqrzNa9YhHsmJTLoBpk", // game botu
+    "MODERASYON": "", // mod botu
+    "STATS": "", // stat
+    "EXECUTIVE": "", // yönetim
+    "LOG": "", // log botu
+    "ASYNC": "", // async botu
+    "EVENTS": "", // game botu
 
     "prefix": [".","!","m!"],
     "botSesID": "1012429155129888898",
